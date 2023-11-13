@@ -1,0 +1,5 @@
+Juan 8 9
+María 7 9
+Pedro 9 8
+Ana 8 9
+Carlos 8 7

@@ -1,0 +1,14 @@
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\bin\Debug\net6.0\Ficheros5.exe
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\bin\Debug\net6.0\Ficheros5.deps.json
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\bin\Debug\net6.0\Ficheros5.runtimeconfig.json
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\bin\Debug\net6.0\Ficheros5.dll
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\bin\Debug\net6.0\Ficheros5.pdb
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\obj\Debug\net6.0\Ficheros5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\obj\Debug\net6.0\Ficheros5.AssemblyInfoInputs.cache
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\obj\Debug\net6.0\Ficheros5.AssemblyInfo.cs
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\obj\Debug\net6.0\Ficheros5.csproj.CoreCompileInputs.cache
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\obj\Debug\net6.0\Ficheros5.dll
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\obj\Debug\net6.0\refint\Ficheros5.dll
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\obj\Debug\net6.0\Ficheros5.pdb
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\obj\Debug\net6.0\Ficheros5.genruntimeconfig.cache
+C:\Users\cayet\JokeApp\Ficheros1\Ficheros5\obj\Debug\net6.0\ref\Ficheros5.dll

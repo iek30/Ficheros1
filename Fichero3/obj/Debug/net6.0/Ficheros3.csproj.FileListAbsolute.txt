@@ -12,3 +12,17 @@ C:\Users\dam\source\repos\Ficheros1\Fichero3\obj\Debug\net6.0\refint\Ficheros3.d
 C:\Users\dam\source\repos\Ficheros1\Fichero3\obj\Debug\net6.0\Ficheros3.pdb
 C:\Users\dam\source\repos\Ficheros1\Fichero3\obj\Debug\net6.0\Ficheros3.genruntimeconfig.cache
 C:\Users\dam\source\repos\Ficheros1\Fichero3\obj\Debug\net6.0\ref\Ficheros3.dll
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\bin\Debug\net6.0\Ficheros3.exe
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\bin\Debug\net6.0\Ficheros3.deps.json
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\bin\Debug\net6.0\Ficheros3.runtimeconfig.json
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\bin\Debug\net6.0\Ficheros3.dll
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\bin\Debug\net6.0\Ficheros3.pdb
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\obj\Debug\net6.0\Ficheros3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\obj\Debug\net6.0\Ficheros3.AssemblyInfoInputs.cache
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\obj\Debug\net6.0\Ficheros3.AssemblyInfo.cs
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\obj\Debug\net6.0\Ficheros3.csproj.CoreCompileInputs.cache
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\obj\Debug\net6.0\Ficheros3.dll
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\obj\Debug\net6.0\refint\Ficheros3.dll
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\obj\Debug\net6.0\Ficheros3.pdb
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\obj\Debug\net6.0\Ficheros3.genruntimeconfig.cache
+C:\Users\cayet\JokeApp\Ficheros1\Fichero3\obj\Debug\net6.0\ref\Ficheros3.dll

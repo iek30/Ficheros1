@@ -9,7 +9,7 @@
 
         try
         {
-            File.Copy("C:\\Users\\dam\\source\\repos\\Ficheros1\\Ficheros1\\" + origen + ".txt", "C:\\Users\\dam\\source\\repos\\Ficheros1\\Ficheros3\\" + destino + ".txt");
+            File.Copy("C:\\Users\\cayet\\JokeApp\\Ficheros1\\Fichero3\\" + origen + ".txt", "C:\\Users\\cayet\\JokeApp\\Ficheros1\\Fichero3\\" + destino + ".txt");
             Console.WriteLine("Archivo copiado.");
         }
         catch (IOException iox)
