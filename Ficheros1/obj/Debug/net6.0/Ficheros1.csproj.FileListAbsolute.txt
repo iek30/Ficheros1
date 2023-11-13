@@ -1,0 +1,14 @@
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\bin\Debug\net6.0\Ficheros1.exe
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\bin\Debug\net6.0\Ficheros1.deps.json
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\bin\Debug\net6.0\Ficheros1.runtimeconfig.json
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\bin\Debug\net6.0\Ficheros1.dll
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\bin\Debug\net6.0\Ficheros1.pdb
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\obj\Debug\net6.0\Ficheros1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\obj\Debug\net6.0\Ficheros1.AssemblyInfoInputs.cache
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\obj\Debug\net6.0\Ficheros1.AssemblyInfo.cs
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\obj\Debug\net6.0\Ficheros1.csproj.CoreCompileInputs.cache
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\obj\Debug\net6.0\Ficheros1.dll
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\obj\Debug\net6.0\refint\Ficheros1.dll
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\obj\Debug\net6.0\Ficheros1.pdb
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\obj\Debug\net6.0\Ficheros1.genruntimeconfig.cache
+C:\Users\dam\source\repos\Ficheros1\Ficheros1\obj\Debug\net6.0\ref\Ficheros1.dll
